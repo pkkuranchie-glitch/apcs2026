@@ -1,6 +1,7 @@
-Name:
-Grade:
+Name: Princeton Kuranchie
+Grade: 10
 Favorite Programming Language:
 Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Something I Am Good At: Navigating a computer
+Something I Want To Learn: Deeper on coding and programming.
+Things about me: I have 4 siblings and I play football

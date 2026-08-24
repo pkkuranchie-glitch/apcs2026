@@ -35,7 +35,13 @@ public class WeeklyBudget
         
     
         
+        // Perform calculations ( Arithmeric expressions)
+        totalCost = lunchPrice * lunchesPerWeek;
+        remaining = allowance - totalCost;
         
+        System.out.println(allowance);
+        System.out.println(totalCost);
+        System.out.println(remaining);
         
         
 }
